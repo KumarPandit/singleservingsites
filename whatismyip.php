@@ -1,0 +1,1 @@
+Your IP Address is <?php echo $_SERVER['REMOTE_ADDR']; ?>
